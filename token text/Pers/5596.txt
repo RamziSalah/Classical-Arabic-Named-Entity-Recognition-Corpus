@@ -1,0 +1,1 @@
+حدثنا <NE:PERS>سعيد بن عفير </NE:PERS>قال حدثني <NE:PERS>الليث </NE:PERS>حدثني <NE:PERS>عقيل </NE:PERS>عن <NE:PERS>ابن شهاب </NE:PERS>ح وحدثني <NE:PERS>إسحاق </NE:PERS>ص <NE:number>154 </NE:number>

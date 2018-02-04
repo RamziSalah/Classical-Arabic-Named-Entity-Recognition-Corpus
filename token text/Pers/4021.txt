@@ -1,0 +1,1 @@
+حدثنا <NE:PERS>أحمد بن يونس </NE:PERS>عن <NE:PERS>زهير </NE:PERS>حدثنا <NE:PERS>منصور </NE:PERS>عن <NE:PERS>ربعي بن حراش </NE:PERS>حدثنا <NE:PERS>أبو مسعود عقبة </NE:PERS>قال قال <NE:Prophet>النبي </NE:Prophet>صلى <NE:Allah>الله </NE:Allah>عليه وسلم إن مما أدرك الناس من كلام النبوة إذا لم تستحي فافعل ما شئت <NE:number>3484 </NE:number>

@@ -1,0 +1,1 @@
+حدثنا <NE:PERS>علي بن عبد الله </NE:PERS>حدثنا <NE:PERS>محمد بن خازم </NE:PERS>ص <NE:number>28 </NE:number>

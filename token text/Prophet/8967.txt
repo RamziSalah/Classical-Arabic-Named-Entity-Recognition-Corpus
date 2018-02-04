@@ -1,0 +1,1 @@
+حدثنا <NE:PERS>موسى بن إسماعيل </NE:PERS>حدثنا <NE:PERS>جويرية </NE:PERS>عن <NE:PERS>نافع </NE:PERS>عن <NE:PERS>ابن عمر </NE:PERS>قال قطع <NE:Prophet>النبي </NE:Prophet>صلى <NE:Allah>الله </NE:Allah>عليه وسلم في مجن ثمنه <NE:number>ثلاثة <NE:Mon>دراهم <NE:number>6797 </NE:number>
