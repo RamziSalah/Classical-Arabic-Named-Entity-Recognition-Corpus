@@ -1,6 +1,8 @@
 # Classical-Arabic-Named-Entity-Recognition-Corpus
 Classical Arabic Named Entity Recognition Corpus (CANERCorpus)
 
+https://www.researchgate.net/publication/330075080_BUILDING_THE_CLASSICAL_ARABIC_NAMED_ENTITY_RECOGNITION_CORPUS_CANERCORPUS
+
 The past decade has witnessed construction of the background information resources to overcome several challenges in text mining tasks. 
 For non-English languages with poor knowledge sources such as Arabic, these challenges have become more salient especially for handling the natural language processing applications that require human annotation. 
 
